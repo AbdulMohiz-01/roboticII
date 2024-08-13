@@ -161,6 +161,12 @@
             "processed_chunks": 1,
             "file_size": 18028,
             "chunk_size": 10
+        },
+        "online-examination-systen-in-php-master\\fonts\\gothic.ttf": {
+            "total_chunks": 13757,
+            "processed_chunks": 1,
+            "file_size": 137568,
+            "chunk_size": 10
         }
     },
     "total_size": 3841036,
