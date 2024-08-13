@@ -149,6 +149,18 @@
             "processed_chunks": 1,
             "file_size": 45404,
             "chunk_size": 10
+        },
+        "online-examination-systen-in-php-master\\fonts\\glyphicons-halflings-regular.woff": {
+            "total_chunks": 2343,
+            "processed_chunks": 1,
+            "file_size": 23424,
+            "chunk_size": 10
+        },
+        "online-examination-systen-in-php-master\\fonts\\glyphicons-halflings-regular.woff2": {
+            "total_chunks": 1803,
+            "processed_chunks": 1,
+            "file_size": 18028,
+            "chunk_size": 10
         }
     },
     "total_size": 3841036,
