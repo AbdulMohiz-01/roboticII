@@ -227,6 +227,12 @@
             "processed_chunks": 1,
             "file_size": 273199,
             "chunk_size": 10
+        },
+        "online-examination-systen-in-php-master\\js\\main.js": {
+            "total_chunks": 22,
+            "processed_chunks": 1,
+            "file_size": 216,
+            "chunk_size": 10
         }
     },
     "total_size": 3841036,
